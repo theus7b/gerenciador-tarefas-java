@@ -12,3 +12,6 @@ Este é um projeto simples de Gerenciador de Tarefas em Java. O programa permite
 - IntelliJ IDEA
 - Git/GitHub
 
+# Licença
+
+Este projeto está sob a licença MIT.
