@@ -68,7 +68,7 @@ Se quiser trocar ideias sobre o projeto, dar sugestões ou colaborar, estou à d
 
 💼 LinkedIn: https://www.linkedin.com/in/matheus-vitor-moreira-15a277286/
 
-🐙 GitHub: github.com/theus7b
+🐙 GitHub: https://github.com/theus7b
 
 Ficarei feliz em conversar e aprender junto com vocês!
 
