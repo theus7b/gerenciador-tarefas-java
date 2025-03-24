@@ -30,7 +30,7 @@ Ou baixe o arquivo .zip pelo GitHub.
     Certifique-se de que o Java está configurado corretamente.
 
 3️⃣ Execute o programa
-Basta rodar a classe Main.java no IntelliJ ou via terminal:
+Basta rodar a classe Main.java na sua IDE Java ou via terminal:
 
 java -jar gerenciador-tarefas.jar
 
