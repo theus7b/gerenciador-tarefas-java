@@ -23,7 +23,7 @@ git clone https://github.com/theus7b/gerenciador-tarefas-java.git
 
 Ou baixe o arquivo .zip pelo GitHub.
 
-2️⃣ Abra no IntelliJ IDEA
+2️⃣ Abra na sua IDE Java
 
     Selecione "Open" e escolha a pasta do projeto.
 
