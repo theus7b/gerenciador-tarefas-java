@@ -15,11 +15,11 @@ public class TaskView {
     public void showMenu() {
         while (true) {
             System.out.println("\n📌 Gerenciador de Tarefas");
-            System.out.println("1️⃣ Adicionar Tarefa");
-            System.out.println("2️⃣ Listar Tarefas");
-            System.out.println("3️⃣ Marcar Tarefa como Concluída");
-            System.out.println("4️⃣ Remover Tarefa");
-            System.out.println("5️⃣ Sair");
+            System.out.println("1️⃣  Adicionar Tarefa");
+            System.out.println("2️⃣  Listar Tarefas");
+            System.out.println("3️⃣  Marcar Tarefa como Concluída");
+            System.out.println("4️⃣  Remover Tarefa");
+            System.out.println("5️⃣  Sair");
             System.out.print("Escolha uma opção: ");
 
             int choice = scanner.nextInt();
